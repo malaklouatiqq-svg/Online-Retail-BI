@@ -41,7 +41,7 @@ Online-Retail-BI/
 
 1. 📥 Cloner le dépôt :
    ```
-   git clone https://github.com/TON_PSEUDO/Online-Retail-BI.git
+   git clone https://github.com/malaklouatiqq-svg/Online-Retail-BI.git
    ```
 2. 📦 Installer les bibliothèques :
    ```
